@@ -1,10 +1,10 @@
 ## A little about me
 
-Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designer and linux server constructor. 
+Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designer and linux server constructor that lives on the East Coast of the United States. 
 
-### Markdown
+### Projects I work/have worked on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Previous owner of [Enclave Equestria MLP Minecraft server](https://enclaveequestria.us/).
 
 ```markdown
 Syntax highlighted code block
