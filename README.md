@@ -4,8 +4,9 @@ Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designe
 
 ### Projects I work/have worked on
 
-Previous owner of [Enclave Equestria MLP Minecraft server](https://enclaveequestria.us/).
-Created a main page for Ponyvillesquare.com (now closed). [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).
+Previous owner of [Enclave Equestria MLP Minecraft server](https://enclaveequestria.us/).                                         
+Created a main page for Ponyvillesquare.com (now closed) [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).
+Own and Maintain [Caik.us](http://caik.us/) website.
 
 ```markdown
 Syntax highlighted code block
