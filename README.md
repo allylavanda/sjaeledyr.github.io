@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to mys7icfox
 
 You can use the [editor on GitHub](https://github.com/mys7icfox/mys7icfox.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
