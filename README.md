@@ -1,6 +1,6 @@
 ## A little about me
 
-Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designer and linux server constructor that lives on the East Coast of the United States. 
+Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designer, linux server constructor and game developer that lives in the East Coast of the United States. 
 
 ### Projects I work/have worked on
 
