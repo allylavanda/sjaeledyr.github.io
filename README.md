@@ -11,26 +11,7 @@ Own and Maintain [Caik.us](http://caik.us/) website.
 
 ## Games I created or worked on
 ### Catch The Joelshrew
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Catch the Joelshrew is a very simple game I made in about an hour or two as a joke for me and some of my friends and for some reason felt the need to publish it :p. If you would like to try it download it [here](https://drive.google.com/open?id=0BzNMWL-AtF2ncGgxN1gybVFJNUk).
 
 ## Contact Information
 
