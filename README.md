@@ -5,7 +5,7 @@ Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designe
 # Projects I work/have worked on
 
 Developer of [cray-z8studios](http://cray-z8studios.github.io).                                                                          
-Created a main page for Ponyvillesquare.com (now closed) [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).
+Created a main page for Ponyvillesquare.com (now closed) [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).                     
 Own and Maintain [Caik.us](http://caik.us/) website.
 
 # Games I created or worked on
