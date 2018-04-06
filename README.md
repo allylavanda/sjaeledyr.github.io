@@ -1,6 +1,6 @@
 # A little about me
 
-Hey there, my name is mys7icfox aka Mystic or Brandon. I am a novice web designer, linux server constructor and game developer that lives in the East Coast of the United States. 
+Hey there, my name is sjaeledyr aka Brandon. I am a novice web designer, linux server constructor and game developer that lives in Midtjylland, Denmark. 
 
 # Projects I work/have worked on
 
@@ -20,5 +20,5 @@ Again a very simple game I made in about an 3 hours as a sequel to Catch The Joe
 
 # Contact Information
 
-If you ever have a need to contact me, you can contact me on
+If you ever have a need to contact me, you can contact me on...
 
