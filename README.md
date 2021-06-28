@@ -7,6 +7,8 @@ Hey there, my name is sjaeledyr aka Brandon. I am a novice web designer, linux s
 Developer of [cray-z8studios](http://cray-z8studios.github.io).                                                                          
 Created a main page for Ponyvillesquare.com (now closed) [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).                     
 Own and Maintain [Caik.us](http://caik.us/) website.
+DoubleOreDrops Plugin https://github.com/sjaeledyr/DoubleOreDrops
+TranscendentMobs Plugin https://github.com/sjaeledyr/TranscendentMobs
 
 # Games I created or worked on
 ## Catch The Joelshrew Series
