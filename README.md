@@ -1,6 +1,6 @@
 # A little about me
 
-Hey there, my name is sjaeledyr aka Danni. I am a novice java programmer, linux server admin, 3D Graphic artist and game developer.
+Hey there, my name is sjaeledyr aka Ally. I am a novice programmer linux server admin, 3D Graphic artist and game developer.
 
 # Projects I work/have worked on
 
