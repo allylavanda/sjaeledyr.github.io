@@ -1,15 +1,11 @@
 # A little about me
 
-Hey there, my name is allylavanda aka Alison. I am a novice programmer linux server admin, 3D Graphic artist and game developer.
+Hey there, I'm allylvanda. I am a novice software engineer.
 
 # Projects I work/have worked on
 
-Owner and Lead Dev of Colonizations. https://github.com/Colonizations
-Slimabonn Plugin. https://github.com/allylavanda/Slimabonn                                                                      
-Created a main page for Ponyvillesquare.com (now closed) [Mainpage here](https://github.com/mys7icfox/pvs_mainpage/).  
-DoubleOreDrops Plugin https://github.com/sjaeledyr/DoubleOreDrops.  
-TranscendentMobs Plugin https://github.com/sjaeledyr/TranscendentMobs.  
-
+jgrep. https://github.com/allylavanda/jgrep
+Fireseal. https://github.com/allylavanda/Fireseal
 # Contact Information
 
 If you ever have a need to contact me, you can contact me on...
